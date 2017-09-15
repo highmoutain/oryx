@@ -23,7 +23,7 @@ import java.util.List;
  *
  * @since 2.0.0
  */
-//test git
+
 public abstract class AbstractRescorerProvider implements RescorerProvider {
 
   /**
